@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">NewTacticalGenirator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Change objectives</string>
+    <string name="reset_string">Reset?</string>
+    <string name="jur_objective">Job History</string>
+    <string name="jur_number">Number</string>
+    <string name="jur_name">Title</string>
+    <string name="obj_string">Objective</string>
+    <string name="dis_string">Description</string>
+    <string name="gen_string">Create</string>
+    <string name="jur_string">Journal</string>
+    <string name="co_string">Completed</string>
+    <string name="con_menu_del">Delete entry</string>
+    <string name="con_menu_co">Achieved</string>
+    <string name="ok_string">OK</string>
+    <string name="cansel_str">Cansel</string>
+    <string name="no_string">NO</string>
+    <string name="return_str">Return</string>
+    <string name="common_string">initial data</string>
+    <string name="str_vpdialog">The number of victory points</string>
+    <string name="str_newbase">Change data base</string>
+    <string name="start_string">Choose the army to see its tactical objectives. If your codex does not have  tactical objectives, choose the "Default" option from the drop-down list.</string>
+
+    <string-array name="data">
+        <item>Default</item>
+        <item>Space marines</item>
+        <item>Grey knigths</item>
+        <item>Chaos space marines</item>
+        <item>Astra Militarum</item>
+        <item>Adeptus Mechanicum</item>
+        <item>Death Guard</item>
+       <!-- <item>Blood angels</item>
+        <item>Dark angels</item>
+        <item>Sons of Corax</item>
+        <item>Sons of the great Khan</item>
+        <item>Sons of Dorn</item>
+        <item>Sons of Gorgon</item>
+        <item>Sons of Vulkan</item>
+        <item>Orks</item>
+        <item>Dark Eldar</item>
+        <item>Necrons</item>
+        <item>Space wolves</item>
+        <item>Khorn Demonkin</item>
+
+        <item>Eldar</item>
+        <item>Harlequins</item>
+        <item>Tau empire</item>-->
+    </string-array>
+
+    <string name="TacticalTabel">TacticalTabel</string>
+    <string name="SpaceMarines">SpaceMarines</string>
+    <string name="BloodAngelObjective">BloodAngels</string>
+    <string name="AstraMilitarum">AstraMilitarum</string>
+    <string name="DeathGuard">DeathGuard</string>
+    <string name="Cultmechanicum">[Cult mechanicum]</string>
+    <string name="DarkAngels">[Dark Angels]</string>
+    <string name="OrksObjective">OrksObjective</string>
+    <string name="DarkEldarObjective">DarkEldarObjective</string>
+    <string name="ChaosSpaceMarines">ChaosSpaceMarines</string>
+    <string name="GKObjective">GKObjective</string>
+    <string name="NecronObjective">NecronObjective</string>
+    <string name="SpaceWolfsObjective">SpaceWolfsObjective</string>
+    <string name="KhornDemonkin">KhornDemonkin</string>
+
+    <string name="Eldar">Eldar</string>
+    <string name="HarlequinsObjective">HarlequinsObjective</string>
+    <string name="TauEmpire">TauEmpire</string>
+    <string name="_id">_id</string>
+    <string name="NameObjective">NameObjective</string>
+    <string name="VP">VP</string>
+    <string name="CanChange">CanChange</string>
+    <string name="Discription">Discription</string>
+    <string name="TactID">TactID</string>
+
+</resources>

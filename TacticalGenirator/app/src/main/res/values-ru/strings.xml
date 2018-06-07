@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">TacticalGenerator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Сменить армию</string>
+    <string name="jur_objective">Журнал заданий</string>
+    <string name="reset_string">Сбросить?</string>
+    <string name="jur_number">Номер</string>
+    <string name="jur_name">Название</string>
+    <string name="return_str">Вернуть</string>
+    <string name="cansel_str">Отмена</string>
+    <string name="start_string">Выберите Армию, за которую вы играете. От этого зависит какой список миссий вы получите. Если в кодексе вашей армии не прописаны тактические миссии, выберете “Default”.</string>
+    <string android:id="@+id/bj_string" android:layout_height="wrap_content" android:layout_width="wrap_content" name="obj_string">Задание</string>
+    <string android:id="@+id/dis_string" name="dis_string">Описание</string>
+    <string android:id="@+id/gen_string" android:layout_width="wrap_content" android:layout_height="wrap_content" name="gen_string">Создать</string>
+    <string android:layout_width="wrap_content" android:id="@+id/jur_string" android:layout_height="wrap_content" name="jur_string">Журнал</string>
+    <string android:id="@+id/co_string" android:layout_height="wrap_content" android:layout_width="wrap_content" name="co_string">Выполненые</string>
+    <string android:layout_height="wrap_content" android:id="@+id/con_menu_del" android:layout_width="wrap_content" name="con_menu_del">Удалить запись</string>
+    <string android:layout_width="wrap_content" android:id="@+id/con_menu_co" android:layout_height="wrap_content" name="con_menu_co">Выполнено</string>
+    <string android:layout_height="wrap_content" android:id="@+id/ok_string" android:layout_width="wrap_content" name="ok_string">OK</string>
+    <string android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/no_string" name="no_string">NO</string>
+    <string android:layout_width="wrap_content" android:id="@+id/common_string" android:layout_height="wrap_content" name="common_string">Начальные данные</string>
+    <string name="str_newbase">Смена базы данных</string>
+
+
+</resources>
